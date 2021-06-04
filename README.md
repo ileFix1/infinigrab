@@ -12,4 +12,7 @@ A simple Discord Token Grabber
 You can edit the programme, develop it further, use it in your projects and more. However, please always link to this repository.
 
 # Bugs
-Wenn es einen Chromedriver Error gibt, stelle sicher, dass du Chrome installiert hast. Sollte es dennoch Probleme geben, gebe in deine Chromezeile: `chrome://version`. Ganz oben steht deine Chrome Version. Lade dir [hier](http://chromedriver.storage.googleapis.com/index.html) den passenden Chromedriver herunter und probiere es erneut.
+If there is a Chromedriver Error, make sure you have Chrome installed. If you still have problems, type in your chrome line: `chrome://version`. At the top you will see your Chrome version. Download the appropriate Chromedriver [here](http://chromedriver.storage.googleapis.com/index.html) and try again.
+
+*Caution:*
+Using the Discord token in a selfbot is **forbidden** on Discord. Do **never** give this token to anyone. Your account may be taken over. I hereby disclaim any responsibility for the use of this software.
